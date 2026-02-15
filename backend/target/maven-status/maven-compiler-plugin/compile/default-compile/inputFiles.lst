@@ -1,0 +1,7 @@
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/dto/QueryRequest.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/dto/UploadResponse.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/util/ResumeParser.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/service/ResumeAIService.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/controller/ResumeController.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/ResumeAIApplication.java
+/home/manish/GitHub/resume-ai-agent/backend/src/main/java/com/manish/resumeai/dto/QueryResponse.java
